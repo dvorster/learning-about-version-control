@@ -2,4 +2,4 @@
 
 by Devon Vorster
 
-Solving merge conflicts takes conscious effort, but I can do it!
+Solving merge conflicts takes conscious effort, but I can do it!”
